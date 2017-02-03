@@ -1,0 +1,26 @@
+git的客户端目前有3种：
+1、github客户端；
+2、totorseGit（tgit）
+3、git GUI
+4、git命令行
+
+场景1： 初始化（用户autoctl51）
+      在github上创建一个repo，clone到本地。
+	  使用gitgui打开。
+	  添加文件夹，和相应的目录。
+	  填写有意义的提交备注。
+	  备注： 使用gitgui来clone库时，没有办法指定本地文件夹位置。
+	             使用tgit可以。
+
+场景2：使用另外一个用户（php010）从github上fork这个repo
+            clone至php010的本地。
+			做有意义的提交。和autoctl51没有冲突。
+			提交requestPull
+			由authctl51进行merge
+			
+场景3：有冲突的requestPull
+
+
+场景4：merger时出现冲突（confict），如何操作。
+
+场景5：关键的英文术语解释
