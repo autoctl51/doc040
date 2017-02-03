@@ -16,4 +16,7 @@ note02：
 push后马上在pull一遍，
 能不能再推呢？
 
+<<<<<<< HEAD
 again！
+=======
+>>>>>>> 00a0254ada599c5f547f9de91d24affea240e6bb
